@@ -4,6 +4,12 @@ Este projeto demonstra o uso do **padrão de projeto Prototype** em Java, aplica
 
 ## 📌 Estrutura
 
+
+  ***DIAGRAMA DE CLASSES***
+
+  <img width="2396" height="1352" alt="597890519-34579130-9bd3-4f57-88a9-08b569b252d4" src="https://github.com/user-attachments/assets/b365524c-d983-45a9-994a-0fba91c21b16" />
+
+
 - **Interface**
   - `Cloneable` → utilizada para permitir clonagem de objetos.
 
